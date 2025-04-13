@@ -74,3 +74,5 @@ Este repositorio documenta una práctica de análisis de vulnerabilidades sobre 
 - Aplicar políticas de contraseñas seguras.
 
 ---
+
+Este proyecto fue realizado como parte de un proceso formativo. La máquina analizada es de acceso público y el contenido aquí compartido es de elaboración propia, con fines educativos y demostrativos.
